@@ -15,7 +15,8 @@
     "@mui/icons-material": "^5.14.12",
     "@mui/material": "^5.14.12",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-native-rss-parser": "^1.5.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",

@@ -1,4 +1,3 @@
-import { useState } from "react";
 import myLogo from "/vite.svg";
 import "./App.css";
 import Button from "@mui/material/Button";
@@ -11,7 +10,6 @@ import theme from "./theme";
 import { Grid } from "@mui/material";
 
 function App() {
-  const [count, setCount] = useState(0);
 
   return (
     <ThemeProvider theme={theme}>
@@ -29,8 +27,7 @@ function App() {
       </div> */}
       <Grid container spacing={2}>
       <Grid item xs={12}>
-        -
-        </Grid>
+      </Grid>
         <Grid item xs={3}>
           <Button
             variant="contained"
