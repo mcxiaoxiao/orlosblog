@@ -19,7 +19,7 @@ function App() {
       <h1>OrlosZiming</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          让我们开始吧!!!!!!11{count}
+          让我们开始吧!!!!00000000000!!11{count}
         </button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
