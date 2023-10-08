@@ -5,4 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: "/orlosblog/",
+  build: {
+    outDir: 'docs' // 打包文件的输出目录
+  }
 })
