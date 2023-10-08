@@ -19,7 +19,7 @@ function App() {
         </a>
       </div>
 
-      <h3 className="subtitle">喜欢搭积木的狗勾先生子铭的coding小窝</h3>
+      <h3 className="subtitle">喜欢搭积木的狗勾先生子铭的Coding小窝</h3>
       {/* <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           让我们开始吧!!!!00000000000!!11{count}
